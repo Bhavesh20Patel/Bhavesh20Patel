@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bhavesh20Patel
 - 👀 I’m interested in full stack web development...
-- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me ... Reach me at bp508879@gmail.com
 
 <!---
